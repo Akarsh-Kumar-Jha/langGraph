@@ -1,6 +1,7 @@
 # AI Travel Itinerary Planner
 
-![alt text](image.png)
+<img width="462" height="603" alt="image" src="https://github.com/user-attachments/assets/f78c3faf-2b76-45a8-acbb-f77ad114b809" />
+
 
 
 An AI-powered travel planner built with **LangGraph**, **LangChain**, **Groq LLM**, and **Apify**. The application takes a user's travel query, validates it, extracts key trip details, fetches real tourist places and hotel information, and generates a complete day-wise travel itinerary as an HTML document.
