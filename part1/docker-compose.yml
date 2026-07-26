@@ -1,0 +1,9 @@
+services:
+  postgreSQL:
+    image: postgres:17
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=langgraph
+    ports:
+      - 5434:5432
